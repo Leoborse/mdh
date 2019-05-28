@@ -1,0 +1,32 @@
+{
+  "name": "mdh",
+  "version": "0.2.1",
+  "description": "Light MongoDB Helper",
+  "main": "src/mdh.js",
+  "scripts": {
+    "start": "node src/mdh.js",
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leoborse/mdh.git"
+  },
+  "keywords": [
+    "HTTP",
+    "Dispatcher"
+  ],
+  "author": "Leonardo Borselli <leonardo.borselli@gmail.com>",
+  "contributors": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Leoborse/mdh/issues"
+  },
+  "homepage": "https://github.com/Leoborse/mdh#readme",
+  "dependencies": {
+  },
+  "files": [
+    "LICENSE",
+    "Readme.md",
+    "src/"
+  ]
+}
